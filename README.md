@@ -1,8 +1,8 @@
-# Middlemarch Character Map
+# War and Peace Character Map
 
-A spoiler-safe, chapter-by-chapter relationship map for George Eliot’s *Middlemarch*. Choose the chapter you have finished: the map shows only the people, relationships, household names, and descriptions available at that point.
+A spoiler-safe, chapter-by-chapter relationship map for Leo Tolstoy’s *War and Peace*. Choose the chapter you have finished: the map shows only the people, relationships, household names, and descriptions available at that point.
 
-[Open the published map](https://danielgasperut.github.io/middlemarch-character-map/)
+[Open the published map](https://danielgasperut.github.io/warandpeace-character-map/)
 
 ## Use and edit it
 
@@ -44,4 +44,4 @@ Relationship notes should explain what is meaningful between the two people *at 
 
 ## Source text
 
-The chapter references and relationship notes were checked against [*Middlemarch* on Project Gutenberg, eBook #145](https://www.gutenberg.org/ebooks/145). The repository includes [`middlemarch-gutenberg.txt`](middlemarch-gutenberg.txt) as a local checking copy.
+The chapter references and relationship notes were checked against [*War and Peace* on Project Gutenberg, eBook #2600](https://www.gutenberg.org/ebooks/2600), in the Aylmer and Louise Maude translation. The repository includes [`warandpeace-gutenberg.txt`](warandpeace-gutenberg.txt) as a local checking copy. The continuous slider runs through Books I–XV and the First and Second Epilogues (365 chapters total).

@@ -43,8 +43,9 @@
   function personCard(person) {
     const profile = profileAtChapter(person, chapter);
     const importance = principalIds.has(person.id) ? 'main' : 'minor';
+    const nickname = person.nickname ? `<span class="nickname">Also called ${person.nickname}</span>` : '';
     return `<button class="card ${importance} ${person.id === selectedId ? 'selected' : ''}" data-person="${person.id}">
-      <span class="initials">${person.initials}</span><span class="name">${person.name}</span>
+      <span class="initials">${person.initials}</span><span class="name">${person.name}</span>${nickname}
       <span class="role">${profile.role}</span><span class="chev">›</span>
     </button>`;
   }

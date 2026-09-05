@@ -6,3 +6,4 @@
 .card.minor{border-color:color-mix(in srgb,var(--tone) 34%,white);background:color-mix(in srgb,var(--tone-pale) 42%,white)}.card.minor .initials{background:color-mix(in srgb,var(--tone-pale) 72%,white)}.card.minor.selected{border-color:var(--tone);background:#fff}
 .controls{position:sticky;top:.5rem;z-index:30;border-radius:0 0 1rem 1rem}
 .household>summary{cursor:pointer;list-style:none}.household>summary::-webkit-details-marker{display:none}.household>summary:after{content:"⌄";margin-left:auto;color:var(--tone);font-size:1.25rem;line-height:1}.household:not([open])>summary{margin-bottom:0}.household:not([open])>summary:after{transform:rotate(-90deg)}.household-content{margin-top:15px}
+.nickname{display:block;margin-top:3px;color:var(--tone);font-size:.75rem;font-weight:750;line-height:1.2}
