@@ -1,7 +1,7 @@
 # Rostov circle notes for *War and Peace*
 
-Editorial notes checked against the Project Gutenberg text, eBook #2600
-(`warandpeace-gutenberg.txt`). Chapter numbers below are one continuous
+Editorial notes checked against the Project Gutenberg text, eBook #2600.
+Chapter numbers below are one continuous
 slider count across the fifteen books and both epilogues; they are not the
 chapter numbers printed in the novel.
 

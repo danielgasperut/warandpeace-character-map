@@ -7,7 +7,7 @@
     readingPrompt: 'Move to the chapter you’ve finished. Later people and connections stay out of sight.',
     defaultPersonId: 'pierre',
     principalIds: ['pierre','andrei','natasha','nikolai-rostov','marya','old-prince-nikolai','ilya-rostov','natalya-rostov','sonya','helene','anatole','kutuzov','napoleon'],
-    source: { title: 'War and Peace, Project Gutenberg eBook #2600 (Maude translation)', url: 'https://www.gutenberg.org/ebooks/2600', localText: '../../warandpeace-gutenberg.txt' },
+    source: { title: 'War and Peace, Project Gutenberg eBook #2600 (Maude translation)', url: 'https://www.gutenberg.org/ebooks/2600', localText: '' },
     theme: { accent: '#695d9d', accentPale: '#f0eef9' }
   };
   const books = [

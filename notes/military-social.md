@@ -306,7 +306,7 @@ are sorted IDs joined by `|`; the `from` values are continuous chapter numbers.
 ## Source check
 
 Primary checking copy: Project Gutenberg eBook #2600, *War and Peace*,
-`warandpeace-gutenberg.txt` in this repository. The public source page is
+the public Project Gutenberg text. The public source page is
 <https://www.gutenberg.org/ebooks/2600>. Names follow the Gutenberg spelling,
 including accented transliterations; the eventual map may display simplified
 forms while retaining these IDs.

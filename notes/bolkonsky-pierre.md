@@ -1,8 +1,8 @@
 # Bolkonsky and Pierre group
 
-These notes use the Project Gutenberg/Aylmer and Louise Maude text in
-`warandpeace-gutenberg.txt` (eBook #2600). Continuous chapter numbers run
-through the fifteen books: Book One = 1–28, Book Two = 29–49, Book Three =
+These notes use the public Project Gutenberg Aylmer and Louise Maude text
+(eBook #2600). Continuous chapter numbers
+run through the fifteen books: Book One = 1–28, Book Two = 29–49, Book Three =
 50–68, Book Four = 69–84, Book Five = 85–106, Book Six = 107–132, Book
 Seven = 133–145, Book Eight = 146–167, Book Nine = 168–190, Book Ten =
 191–229, Book Eleven = 230–263, Book Twelve = 264–279, Book Thirteen =
